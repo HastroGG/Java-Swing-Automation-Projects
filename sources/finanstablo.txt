@@ -1,0 +1,20 @@
+Maaş ; Gelir ; 45000
+Kira Geliri ; Gelir ; 12000
+Serbest Zamanlı Proje ; Gelir ; 8500
+Borsa Temettü ; Gelir ; 3200
+İkinci El Eşya Satışı ; Gelir ; 1500
+Prim Ödemesi ; Gelir ; 6000
+Mevduat Faizi ; Gelir ; 2400
+Geri İade Ödemesi ; Gelir ; 450
+Kripto Kar Satışı ; Gelir ; 5100
+Danışmanlık Ücreti ; Gelir ; 3500
+Ev Kirası ; Gider ; 15000
+Mutfak Alışverişi ; Gider ; 6500
+Elektrik Faturası ; Gider ; 850
+Su Faturası ; Gider ; 230
+İnternet Faturası ; Gider ; 380
+Doğalgaz Faturası ; Gider ; 1200
+Benzin Depo Doldurma ; Gider ; 2200
+Dışarıda Yemek ; Gider ; 1450
+Kredi Kartı Asgari ; Gider ; 4800
+Abonelik Servisleri ; Gider ; 350
